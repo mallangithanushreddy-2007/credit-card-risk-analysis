@@ -1,0 +1,8 @@
+*.csv
+.env
+*.token
+token.txt
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
